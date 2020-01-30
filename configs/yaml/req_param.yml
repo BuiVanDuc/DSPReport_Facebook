@@ -1,0 +1,17 @@
+fields:
+  - date_start
+  - date_stop
+  - account_id
+  - account_name
+  - campaign_id
+  - campaign_name
+  - reach
+  - frequency
+  - impressions
+  - inline_link_clicks
+  - actions
+  - spend
+breakdows:
+  - region
+level:
+  - campaign

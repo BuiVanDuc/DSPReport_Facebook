@@ -1,0 +1,6 @@
+{
+  "protocol": "http",
+  "domain": "192.168.4.147",
+  "port": 21708,
+  "path": "/api/facebook/reports/CUSTOM_REPORT/"
+}
